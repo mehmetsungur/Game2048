@@ -1,2 +1,4 @@
 ansible.pem
-*.sh
+ansible.sh
+jenkins.sh
+trvy.sh
