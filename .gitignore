@@ -1,4 +1,4 @@
 ansible.pem
 ansible.sh
 jenkins.sh
-trvy.sh
+trivy.sh
