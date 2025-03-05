@@ -24,7 +24,7 @@
     group: webserver
     count: 1
     region: eu-north-1
-    security_group: ec2-security-group
+    security_group: CICD-2048-sg
     tag_name:
       Name: CICD-2048
   tasks:
